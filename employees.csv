@@ -1,0 +1,101 @@
+Firstname,Lastname,Employee ID,Employee Manager Name,Join Date,Date of Birth,Employee Age,Employee Salary,Employee Department Name
+Gabriela,Ross,850383,Nicholas Wallace,2021-12-25,1998-12-19,24,70000, Marketing
+Melissa,Larson,198135,Shelly Mcguire,2022-12-05,1989-01-08,34,47000, Operations
+Anne,Atkinson,887924,Scott Holmes,2021-11-08,1968-01-26,55,115000, Finance
+Billy,Ramsey,222323,James Fowler,2021-05-24,1964-06-14,59,81000, Marketing
+Ryan,Henderson,648952,Nicholas Taylor,2022-12-10,1976-08-28,46,49000, IT
+Mark,Young,963219,Ms. Jenna Madden,2021-07-18,1986-02-15,37,86000, Marketing
+Michelle,Henry,410093,Jason Pierce,2022-02-03,2000-07-05,23,116000,HR
+Ryan,Montoya,718883,Eric Landry,2022-04-14,1963-12-27,59,137000, Marketing
+Clarence,Patton,468586,Daniel Moreno,2023-06-13,1986-05-28,37,149000, Finance
+Troy,Avila,406177,Sheri Rodriguez,2020-08-28,1995-12-28,27,146000, Finance
+Michael,Aguirre,285632,Taylor Wilson,2023-07-17,1964-03-17,59,99000, IT
+Molly,Thompson,528777,Zachary Hanson,2023-05-23,1996-03-21,27,101000, IT
+Jamie,Mahoney,517235,Anthony Morgan,2021-06-24,1967-06-03,56,55000, Operations
+Michael,Rasmussen,425305,Jose Montgomery,2022-04-28,2001-07-22,22,127000, Marketing
+Jennifer,Williams,184548,Karen Hardin,2021-10-04,1987-05-13,36,38000, IT
+Susan,Strong,343677,Brian Lewis,2020-07-15,1973-01-25,50,50000, Operations
+Mary,Black,68269,Joanna Burns,2021-08-08,1971-01-24,52,105000, Finance
+Michael,Turner,895248,Steven Craig,2021-05-08,1964-07-17,59,44000,HR
+Edward,Mcdonald,708432,Christina Hoffman,2021-11-11,1979-10-28,43,117000, Operations
+Rachel,Smith,13843,Ethan Shaw,2023-03-07,1998-06-13,25,131000, IT
+Mark,Bowman,626133,Paul Blanchard,2021-05-26,1988-09-29,34,95000, Operations
+Amy,Torres,900911,Vanessa Burns,2021-07-28,1998-04-17,25,92000, IT
+James,Cooper,259094,Cheryl Roberson,2022-11-28,1975-06-20,48,40000, Finance
+Kristina,Martinez,686872,Andrew Kane,2021-06-19,1975-03-05,48,41000, Marketing
+Tracey,Stafford,499614,Tina Anderson,2023-06-19,1967-03-09,56,119000, Marketing
+Natalie,Hicks,913959,Jessica Walker,2023-06-06,1967-03-06,56,144000, IT
+Carolyn,Becker,290554,Melissa Rollins,2020-07-05,1996-04-05,27,31000, IT
+Alyssa,Rodriguez,547266,Jessica Sparks,2022-10-30,1997-07-21,26,52000, Operations
+Rita,Sharp,669383,Ashley Hunter,2021-08-22,1996-03-17,27,71000, Operations
+Jeanne,Hall,431142,Tanya Lopez,2023-07-06,1997-07-30,26,50000,HR
+Scott,French,58558,Linda Taylor,2022-10-20,1966-10-20,56,148000,HR
+Jesus,Wilson,461533,Lisa Contreras,2021-12-18,1964-11-22,58,110000, IT
+Karen,Barker,726121,Lori Wright,2023-03-23,1994-09-22,28,75000, IT
+James,Murphy,736586,Thomas Harvey,2023-02-26,1963-06-28,60,147000, IT
+Martin,Hartman,757157,Jean Green,2020-02-23,1964-07-01,59,134000, Operations
+Katherine,Black,982507,William Ford,2023-04-17,1963-10-18,59,91000, Marketing
+Aaron,Cameron,415665,Anthony Davis,2022-06-25,1992-12-18,30,140000, IT
+Mike,French,185397,Emily Harris,2021-03-17,1969-04-08,54,75000, Finance
+Jonathan,Morris,370807,Joel Gomez,2023-01-04,1967-02-06,56,135000, Marketing
+Sarah,Hunter,660478,Brandon Jones,2021-01-15,2001-05-05,22,125000, Operations
+Sean,Wilson,548719,Tracy Jones,2020-04-18,1972-09-10,50,132000,HR
+Stephanie,Santiago,38958,Brandi Roberts,2021-05-22,1972-03-26,51,103000, Finance
+Linda,Clark,783212,Vicki Garcia,2020-07-21,1985-12-17,37,39000,HR
+Christina,Stark,375199,David Ross,2020-03-05,1970-09-06,52,117000,HR
+Gregory,Henderson,923988,Emily Cohen,2021-01-29,1979-01-31,44,103000, Finance
+Kerri,Hernandez,861447,Taylor Henry,2023-07-16,1966-04-28,57,124000, Finance
+Susan,Bush,603645,Mary Steele,2020-06-26,1974-02-26,49,34000,HR
+Alyssa,Rodriguez,15745,Anne Williams,2022-03-08,1973-08-28,49,131000, Operations
+Jennifer,Martinez,622887,Alexis Hughes,2022-12-20,2001-06-12,22,45000, Operations
+Jared,Nixon,587033,Bryan Li,2021-05-18,1972-06-23,51,93000, Finance
+Lori,Allen,779395,Stephen Sherman,2020-02-02,1992-05-08,31,68000, Finance
+Jerry,Rogers,699236,Michael Griffin,2020-09-02,1996-09-26,26,144000,HR
+Carolyn,Reed,474335,Mr. Chad Morrison,2022-06-12,1983-07-23,40,30000, IT
+Melinda,Snyder,237835,Samantha Brown,2023-01-03,1980-08-24,42,73000, Operations
+Robert,Waters,50946,Thomas Grant,2021-03-29,1979-12-08,43,55000, Operations
+April,Phillips,575546,Julie Phillips,2021-11-20,1999-01-19,24,140000, Operations
+Victoria,Mullins,848444,Martha Ramirez,2021-11-27,1970-10-19,52,55000, Marketing
+William,Lane,852104,Sierra Valdez,2021-09-27,2001-01-16,22,49000, Marketing
+Donald,Calhoun,68288,Kyle Anderson,2020-03-07,1985-10-11,37,38000, Operations
+James,Jones,834829,Julie Floyd,2021-05-21,1971-08-04,52,146000, Marketing
+Gabriel,Mathews,157649,Debbie Velazquez,2022-01-14,2000-11-29,22,58000, Finance
+Philip,Chandler,63425,Natalie Stewart,2020-06-10,1975-09-11,47,69000,HR
+Zachary,Weaver,250004,Diane Taylor,2021-11-20,1983-02-16,40,82000, Operations
+Eric,Aguilar,955570,Evan Johnson,2020-07-11,1999-04-06,24,123000,HR
+Brittany,Phillips,70341,Christopher Bradford,2020-03-31,1977-05-12,46,114000, Marketing
+Joseph,Robbins,725790,Scott Roberts,2023-02-05,1975-07-01,48,38000, Operations
+Debra,Booker,340114,Isabel Rogers,2021-04-12,1989-05-01,34,107000, Finance
+Joseph,Alexander,62363,Rebecca White,2020-04-23,1997-10-26,25,92000,HR
+Hannah,Marshall,808228,Amber Lowery,2020-04-24,1979-04-04,44,44000,HR
+Tyrone,Chavez,104206,Ryan Smith,2020-12-14,1999-08-26,23,104000, Finance
+Peter,Leon,94419,Robert Alvarez,2022-01-04,1987-03-08,36,118000, Operations
+Karen,Mooney,135620,Janet Ramirez,2022-11-04,1990-12-14,32,81000, IT
+Anna,George,217987,Alexis Foster,2020-01-10,1969-07-28,54,84000, IT
+Ann,Powers,229653,Justin Anderson,2021-06-25,1998-08-05,25,123000, Marketing
+Matthew,Vaughan,703478,Amy Lee,2022-10-04,1992-06-20,31,57000, Operations
+Theodore,Hartman,94929,Michael Griffin,2021-08-07,1976-04-29,47,136000, IT
+Melinda,Robbins,708730,Kendra Koch,2021-02-19,2000-01-08,23,98000, Operations
+Matthew,Lawson,810807,Mary Foley,2023-01-04,1966-12-20,56,45000, IT
+Savannah,Lynch,963739,Craig Walker,2022-08-30,2000-11-22,22,146000, Operations
+Haley,Holland,405918,Cindy Allison,2022-11-11,1968-12-06,54,64000, Marketing
+Jessica,Costa,703240,Tracy Rhodes,2023-05-11,1964-03-30,59,49000, Marketing
+Cindy,Moss,982714,Joy Robinson,2022-09-07,1983-04-11,40,139000, Marketing
+Michael,Rush,550046,Christopher Williams,2023-05-14,1976-06-03,47,133000, IT
+Maureen,Knox,809963,Jacob Johnson,2022-07-11,1963-03-13,60,129000,HR
+Jacob,Thompson,617147,Jason Lang,2021-11-10,1984-09-07,38,65000,HR
+David,Frederick,127263,Matthew Smith,2023-08-07,1972-08-29,50,112000, Marketing
+Madison,Adkins,88948,Brianna Ayers,2021-12-29,1970-02-28,53,52000, Operations
+Patrick,Salazar,467500,Karen Chavez,2020-06-09,1998-01-20,25,129000,HR
+Joshua,Rodriguez,631042,Jenna Jones,2022-11-05,1992-02-21,31,147000, Marketing
+Nicholas,Fernandez,706581,Ashley Keith,2022-11-04,1984-11-02,38,130000, IT
+Jessica,Murphy,452536,Rebecca Little,2021-09-17,1989-12-28,33,84000, Marketing
+Paige,Johnson,905900,Michelle Smith,2022-03-23,1962-12-13,60,59000,HR
+Gregory,Coleman,628132,Cheryl Beck,2020-10-19,1985-06-05,38,129000, IT
+Miranda,Clements,261482,Ashley Greene,2021-10-23,1968-02-27,55,79000,HR
+Devon,Jones,459585,Dawn Villa,2021-10-16,1987-08-19,35,128000, Finance
+Jonathan,Collins,693225,Christopher Fisher,2023-04-24,1968-07-14,55,47000, Operations
+Rebecca,Pace,597496,Olivia Hernandez,2022-04-22,1992-04-17,31,55000, Operations
+Hannah,Johnson,408835,Betty Bradford,2021-09-14,1978-06-09,45,118000, Finance
+April,Padilla,520375,Amber Luna,2020-03-07,1975-06-04,48,84000, IT
+Brad,Carter,888938,Lindsey Moreno,2022-04-08,1995-08-27,27,77000, Operations
